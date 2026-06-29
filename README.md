@@ -1608,6 +1608,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://labs.jamessawyer.co.uk/cves/" target="_blank">CVE PoC Search</a>
+        </td>
+        <td>
+            Search public GitHub proof-of-concept repositories by CVE identifier during threat investigations.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/michael-yip/ThreatTracker" target="_blank">ThreatTracker</a>
         </td>
         <td>
